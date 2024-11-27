@@ -1,5 +1,7 @@
-package com.dufana.berlin.toluakindolie.lekki.model;
+package com.dufuna.berlin.toluakindolie.model;
+
 import java.time.LocalDate;
+import java.util.Date;
 
 /**
  * Represents a property in Lekki with various attributes.
@@ -149,4 +151,31 @@ public class LekkiProperty {
     public String toString() {
         return propertyId + ", " + propertyAddress + ", " + propertyType;
     }
+
+    /**
+     * Generates a hash code for the property.
+     * The hash code is based on the property id.
+     *
+     * @return The hash code of the property.
+     */
+    @Override
+    public int hashCode() {
+        return propertyId;
+    }
+
+    /**
+     * Compares this property to another object for equality.
+     * Properties are considered equal if their property ids are the same.
+     *
+     * @param obj The object to compare with.
+     * @return True if the properties are equal, false otherwise.
+     */
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        LekkiProperty that = (LekkiProperty) obj;
+        return propertyId == that.propertyId;
+    }
+
 }
