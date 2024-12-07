@@ -2,8 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>lekkiProperty</artifactId>
+  <artifactId>taxCalculator</artifactId>
   <version>1.0-SNAPSHOT</version>
+
   <dependencies>
     <!-- JUnit 5 (JUnit Jupiter) -->
     <dependency>
@@ -14,18 +15,6 @@
     </dependency>
   </dependencies>
 
-  <name>Archetype - lekkiProperty</name>
+  <name>Archetype - taxCalculator</name>
   <url>http://maven.apache.org</url>
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <configuration>
-          <source>8</source>
-          <target>8</target>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
 </project>
