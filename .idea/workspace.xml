@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f12fef4-c4e8-4231-af63-37f1eb1b40e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/toluakindolie/MockLekkiPropertyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/toluakindolie/model/LekkiProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/toluakindolie/service/LekkiPropertyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/toluakindolie/service/MockLekkiPropertyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dufuna/berlin/toluakindolie/MockLekkiPropertyAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.dufuna.berlin.toluakindolie.model/LekkiProperty.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +30,12 @@
         <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2pNlaNdHa3IWFE9pwuvP3oLWgK6" />
   <component name="ProjectViewState">
@@ -40,12 +47,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/jcc__Sprint3&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\toluakindolie\workspace\lekkiProperty\src\com.dufuna.berlin.toluakindolie.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dufuna.berlin.toluakindolie" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

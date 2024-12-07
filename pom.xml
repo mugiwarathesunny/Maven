@@ -4,6 +4,16 @@
   <groupId>org.example</groupId>
   <artifactId>lekkiProperty</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <dependencies>
+    <!-- JUnit 5 (JUnit Jupiter) -->
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter</artifactId>
+      <version>5.10.0</version> <!-- Use the latest version -->
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
   <name>Archetype - lekkiProperty</name>
   <url>http://maven.apache.org</url>
   <build>
