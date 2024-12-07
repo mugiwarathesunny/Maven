@@ -14,7 +14,7 @@ public class MockLekkiPropertyApp {
         // Create a LekkiProperty
         LekkiProperty property = new LekkiProperty(
                 1,
-                "123 Lekki Way, Lagos",
+                "123 Ibeju Lekki Way, Lagos",
                 "House",
                 3,
                 2,

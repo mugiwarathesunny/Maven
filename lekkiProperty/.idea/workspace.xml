@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f12fef4-c4e8-4231-af63-37f1eb1b40e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/java/com/dufana/berlin/toluakindolie/tax/model/TaxData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taxCalculator/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/toluakindolie/MockLekkiPropertyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/toluakindolie/MockLekkiPropertyApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
